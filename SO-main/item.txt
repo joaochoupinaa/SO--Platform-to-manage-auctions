@@ -1,0 +1,3 @@
+0 camisa vestuario 18 40 903 maria Mario
+1 telemovel tecnologia 150 350 103 maria ricardo
+2 carro veiculo 5001 1500 103 paulo Mario
