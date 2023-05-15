@@ -1,2 +1,2 @@
 # so
-TP SO - 22/23
+Trabalho realizado no âmbito da cadeira Sistemas Operativos no ano 22/23
